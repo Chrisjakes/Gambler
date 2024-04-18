@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1621181457"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -k-framework -kCocoa -l -vewnhibq &quot;-Fi/Users/Cjacobs/Library/CloudStorage/GoogleDrive-26jacchr@students.dlshcch.co.za/My Drive/Computers/Programming/Pascal/Gambler/lib/x86_64-darwin&quot; -Fu/Users/Cjacobs/.lazarus/lib/units/x86_64-darwin/cocoa -Fu/Users/Cjacobs/.lazarus/lib/LCLBase/units/x86_64-darwin -Fu/Users/Cjacobs/.lazarus/lib/freetypelaz/lib/x86_64-darwin -Fu/Users/Cjacobs/.lazarus/lib/LazUtils/lib/x86_64-darwin -Fu/Users/Cjacobs/.lazarus/lib/units/x86_64-darwin &quot;-Fu/Users/Cjacobs/Library/CloudStorage/GoogleDrive-26jacchr@students.dlshcch.co.za/My Drive/Computers/Programming/Pascal/Gambler/&quot; &quot;-FU/Users/Cjacobs/Library/CloudStorage/GoogleDrive-26jacchr@students.dlshcch.co.za/My Drive/Computers/Programming/Pascal/Gambler/lib/x86_64-darwin/&quot; &quot;-FE/Users/Cjacobs/Library/CloudStorage/GoogleDrive-26jacchr@students.dlshcch.co.za/My Drive/Computers/Programming/Pascal/Gambler/&quot; &quot;-o/Users/Cjacobs/Library/CloudStorage/GoogleDrive-26jacchr@students.dlshcch.co.za/My Drive/Computers/Programming/Pascal/Gambler/Gambler&quot; -dLCL -dLCLcocoa Gambler.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
