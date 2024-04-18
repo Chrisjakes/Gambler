@@ -1,16 +1,16 @@
 object Form1: TForm1
-  Left = 312
+  Left = 457
   Height = 526
-  Top = 127
+  Top = 211
   Width = 768
   Caption = 'Form1'
   ClientHeight = 526
   ClientWidth = 768
   LCLVersion = '3.0.0.3'
   object imgCurtains: TImage
-    Left = -20
+    Left = -88
     Height = 534
-    Top = -8
+    Top = -88
     Width = 788
   end
 end

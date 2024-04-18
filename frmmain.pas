@@ -26,12 +26,6 @@ var
 
 implementation
 {$R *.lfm}
-initialization
-procedure InitializeForm
-begin
-imgCurtains.Picture.LoadFromFile(./img/tile000.png0 ;
-end;
-begin
-  initilizeForm
+
 end.
 
