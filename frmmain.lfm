@@ -1,16 +1,23 @@
 object Form1: TForm1
-  Left = 457
-  Height = 526
-  Top = 211
-  Width = 768
+  Left = 517
+  Height = 610
+  Top = 142
+  Width = 903
   Caption = 'Form1'
-  ClientHeight = 526
-  ClientWidth = 768
+  ClientHeight = 610
+  ClientWidth = 903
   LCLVersion = '3.0.0.3'
   object imgCurtains: TImage
-    Left = -88
-    Height = 534
-    Top = -88
-    Width = 788
+    Left = 0
+    Height = 840
+    Top = -112
+    Width = 904
+    Stretch = True
+  end
+  object tmrAnimation: TTimer
+    Interval = 50
+    OnTimer = tmrAnimationTimer
+    Left = 707
+    Top = 136
   end
 end
